@@ -1,4 +1,7 @@
 [
-  { "keys": ["super+ctrl+a"], "command": "alignment" }
+  {"keys": ["super+shift+j"],"command": "format_eslint"},
+  { "keys": ["super+ctrl+a"], "command": "alignment" },
+  { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+  {"keys": ["alt+m"],"command": "markdown_preview","args": {"target": "browser", "parser":"github"},}
 ]
 
