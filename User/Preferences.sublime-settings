@@ -1,4 +1,8 @@
 {
+	"added_words":
+	[
+		"ageing"
+	],
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
@@ -8,11 +12,12 @@
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 18,
+	"font_size": 20,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"SublimeLinter",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,

@@ -5,7 +5,7 @@
   "node_path": {
     "windows": "node.exe",
     "linux": "/usr/bin/nodejs",
-    "osx": "/Users/RyanYu/n/bin/node"
+    "osx": "/usr/local/bin/node"
   },
 
   // The location to search for a locally installed eslint package.
